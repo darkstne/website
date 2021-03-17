@@ -7,9 +7,9 @@ permalink: /vote
 "Voting" is a way in which you can support the server and attract new players to each of us. For this reason, we try to encourage our players to vote for us daily and offer rewards to incentivize supporting us.
 
 ## What is voting?
-Minecraft server listing websites, like [minecraftservers.org](https://minecraftservers.org/), is one of the many websites that servers can avertise themsleves on. Players that are looking for new servers to join will visit these sites to find new servers that they might be interested in. 
+Minecraft server listing websites, like [minecraftservers.org](https://minecraftservers.org/), is one of the many websites that servers can advertise themsleves on. Players that are looking for new servers to join will visit these sites to find new servers that they might be interested in. 
 
-These websites allow their players to submit "votes" for them. When you "vote" it provides a small boost to our server on the website. The boost pushes up to the top of the page so that even more potential players can see our advertisement and might join the server. 
+These websites allow their players to submit "votes" for them. When you "vote", it provides a small boost to our server on the website. The boost pushes up to the top of the page so that even more potential players can see our advertisement and might join the server. 
 
 We're listed on multiple websites so that we have the chance to attract many new players at one time.
 
@@ -40,56 +40,16 @@ We're glad you asked. All of the sites we're listed on are shown below. It's rea
 <div class="grid-container">
   <div class="grid grid--py-3">
     <div class="cell cell--6">
-        <div>
-            <a href="{{ site.baseurl }}/pmc">
-            <div class="card card--clickable">
-                <div class="card__content">
-                    <div class="card__header">
-                        <h3>Planet Minecraft</h3>
-                    </div>
-                </div>
-            </div>
-            </a>
-        </div>
+        <a class="button button--outline-primary button--rounded" href="../pmc">Planet Minecraft</a>
     </div>
     <div class="cell cell--6">
-        <div>
-            <a href="{{ site.baseurl }}/topg">
-            <div class="card card--clickable">
-                <div class="card__content">
-                    <div class="card__header">
-                        <h3>TopG</h3>
-                    </div>
-                </div>
-            </div>
-            </a>
-        </div>
+        <a class="button button--outline-primary button--rounded" href="../topg">TopG</a>
     </div>
     <div class="cell cell--6">
-        <div>
-            <a href="{{ site.baseurl }}/mcs">
-            <div class="card card--clickable">
-                <div class="card__content">
-                    <div class="card__header">
-                        <h3>MinecraftServers</h3>
-                    </div>
-                </div>
-            </div>
-            </a>
-        </div>
+        <a class="button button--outline-primary button--rounded" href="../mcs">MinecraftServers</a>
     </div>
     <div class="cell cell--6">
-        <div>
-            <a href="{{ site.baseurl }}/mcmp">
-            <div class="card card--clickable">
-                <div class="card__content">
-                    <div class="card__header">
-                        <h3>Minecraft Multiplayer</h3>
-                    </div>
-                </div>
-            </div>
-            </a>
-        </div>
+        <a class="button button--outline-primary button--rounded" href="../mcmp">Minecraft Multiplayer</a>
     </div>
   </div>
 </div>
