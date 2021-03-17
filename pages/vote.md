@@ -39,16 +39,16 @@ We're glad you asked. All of the sites we're listed on are shown below. It's rea
 
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--3">
+    <div class="cell cell--4">
         <a class="button button--outline-primary button--rounded button--lg" href="{{ site.baseurl }}/pmc">Planet Minecraft</a>
     </div>
-    <div class="cell cell--3">
+    <div class="cell cell--4">
         <a class="button button--outline-primary button--rounded button--lg" href="{{ site.baseurl }}/mcs">MinecraftServers</a>
     </div>
-    <div class="cell cell--3">
-        <a class="button button--outline-primary button--rounded button--lg" href="{{ site.baseurl }}/mcmp">Minecraft Multiplayer</a>
+    <div class="cell cell--4">
+        <a class="button button--outline-primary button--rounded button--lg" href="{{ site.baseurl }}/mcmp">MC Multiplayer</a>
     </div>
-    <div class="cell cell--3">
+    <div class="cell cell--4">
         <a class="button button--outline-primary button--rounded button--lg" href="{{ site.baseurl }}/topg">TopG</a>
     </div>
   </div>
