@@ -10,10 +10,9 @@ Our server staff members are appointed to make sure everything is in line with t
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Panther"><img src="https://cravatar.eu/helmhead/6fa574108a8c46d7ab77476ed0cdbe20" alt="PinkPanther1046" width="108"></a></h3></div></div>
-    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Lakefield"><img src="https://cravatar.eu/helmhead/77ca708d0717449bae691c503296e133" alt="Lakefield" width="108"></a></h3></div></div>
-    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/Darth"><img src="https://cravatar.eu/helmhead/a98d531329f3495ebac149cbafc5aa8e" alt="DarthZonarius" width="108"></a></h3></div></div>
-    <div class="cell cell--3"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Panther"><img src="https://cravatar.eu/helmhead/6fa574108a8c46d7ab77476ed0cdbe20" alt="PinkPanther1046" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Lakefield"><img src="https://cravatar.eu/helmhead/77ca708d0717449bae691c503296e133" alt="Lakefield" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
@@ -55,8 +54,9 @@ Admins are staff members who are the network's more efficent general moderators.
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
-    <div class="cell cell--auto"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Liv_Liv"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="livless" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
