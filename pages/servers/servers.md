@@ -42,6 +42,8 @@ Or, you can turn it up to 11. Our server's [members](../hc/titles-and-honors#ser
   </div>
 </div>
 
+<br>
+
 <div class="item">
   <div class="item__image">
     <img class="image image--sm" src="{{ site.baseurl }}/assets/images/skyblock.png"/>
