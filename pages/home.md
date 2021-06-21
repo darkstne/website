@@ -8,7 +8,7 @@ article_header:
   type: overlay
   theme: dark
   background_image:
-    src: ../assets/images/hero-light.png
+    src: ../assets/images/hero.png
 feature-buttons: true
 feature-button-dark-title: Join the network
 feature-button-dark-url: https://darkst.one/join
