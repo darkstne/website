@@ -53,8 +53,8 @@ Admins are staff members who are the network's more efficent general moderators.
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Liv_Liv"><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Liv_Liv"><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
