@@ -1,7 +1,7 @@
 ---
 layout: feature
 title: There's so much more to see.
-excerpt: Plan, create and inspire. Planning is optional. 
+excerpt: Plan, create and inspire. Planning is optional.
 permalink: /servers/creative
 mode: immersive
 article_header:
@@ -28,10 +28,10 @@ All of our players, member or not, are given access to an advanced suite of Worl
 
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
-## Management
+<!-- ## Management
 <div class="ops-section">
   {% include ops.html %}
-</div>
+</div> -->
 
 ## Worlds
 We offer a total of eight different worlds for creativity. Each of them has their own purpose and intended use for our players to take advantage of their creative permissions.

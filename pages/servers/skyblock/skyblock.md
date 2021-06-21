@@ -10,9 +10,9 @@ article_header:
   background_image:
     src: ../assets/images/skyblock-hero.png
 server: Skyblock
-ops-username: cxnema
-ops-uuid: 15fb6dd1642e4a619c3b390eb3e551a9
-ops-forum: cxnema
+ops-username: Pheno
+ops-uuid: dc7bd3dafd534ab3806b89d4d93aa72e
+ops-forum: Phenomality
 feature-buttons: true
 feature-button-dark-title: Start your projects
 feature-button-dark-url: https://darkst.one/join

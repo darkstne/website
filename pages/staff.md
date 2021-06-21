@@ -39,9 +39,8 @@ Developers are the staff members who are proficient in multiple programming lang
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/bemoseemo"><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/cxnema"><img src="https://cravatar.eu/helmhead/15fb6dd1642e4a619c3b390eb3e551a9" alt="cxnema" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Kierxnnn"><img src="https://cravatar.eu/helmhead/a6165b3611634d98be74ec1c50aef789" alt="Kierxnnn" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/bemoseemo"><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
   </div>
 </div>
 </center>
@@ -54,7 +53,6 @@ Admins are staff members who are the network's more efficent general moderators.
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
     <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
     <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Liv_Liv"><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></a></h3></div></div>
   </div>
