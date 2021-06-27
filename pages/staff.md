@@ -6,15 +6,6 @@ permalink: /staff
 
 Our server staff members are appointed to make sure everything is in line with the server's rules. Every member of the team is selected to be an enforcer of the rules and someone who supports the community. This page will provide the general role of each rank, and how to get in contact with each member.
 
-## Recruiting
-We're building great tools and we could use your help. Opportunities with us aren't limited to just content moderation and the scope of the in-game server. We offer all sorts of oversight, training and staff positions to learn leadership skills.
-
-Think we're what you're looking for?
-
-<a class="button button--outline-primary button--rounded" href="../staff/recruiting">Explore open positions</a>
-
-## Staff team
-
 <h3 style="line-height: 2.5rem; border-bottom: 3px #E64A3A solid;">Executives</h3>
 <center>
 <div class="grid-container">
