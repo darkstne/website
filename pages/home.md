@@ -4,6 +4,8 @@ title: The network made for you.
 excerpt: The Darkstone Minecraft Network for Java and Bedrock edition masterfully made to satisfy everyone's spontaneously creative side.
 permalink: /
 mode: immersive
+header:
+  theme: dark
 article_header:
   type: overlay
   theme: dark
