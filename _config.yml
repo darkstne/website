@@ -226,7 +226,7 @@ defaults:
       pageview: true
       # lightbox: true
   - scope:
-      path: "/staff/recruiting"
+      path: ""
       type: posts
     values:
       layout: article
