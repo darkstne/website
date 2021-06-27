@@ -9,9 +9,7 @@ header:
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(30, 132, 73, .4), rgba(247, 148, 29, .4))'
+  background_image: false
 feature-buttons: false
 ---
 
