@@ -7,8 +7,9 @@ mode: immersive
 article_header:
   type: overlay
   theme: dark
+  background_color: '#203028'
   background_image:
-    src: ../assets/images/hero-light.png
+    gradient: 'linear-gradient(135deg, rgba(30, 132, 73, .4), rgba(247, 148, 29, .4))'
 feature-buttons: false
 ---
 
@@ -17,7 +18,7 @@ Our community leaders are the ones that help bring our organization to new heigh
 
 And get to know some great people while doing it.
 
-### Training guides
+## Training guides
 We offer downloadable guides for our various training courses and Endeavor supplemental resources. All of our guides are published and obtainable at no cost, for everyone.
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #2BCA70 solid;">Mod Training Program</h3>
@@ -30,7 +31,8 @@ We offer downloadable guides for our various training courses and Endeavor suppl
       <h3>Creative</h3>
     </div>
     <div class="item__description">
-      <a class="button button--secondary button--rounded button--lg" style="background-color: #00a8a8" href="{{ site.baseurl }}/downloads/endeavor/mod.pdf">Download training guide</a>
+      <p>The Creative server features WorldEdit and OP-style permissions while offering two large plotworlds and a "Sandbox" superflat testing world. Everyone gets access to nicknames, WorldEdit, warps and homes and can vote for additional cosmetic privileges. For our members, we have the private "Rhodesia" superflat build world, the "Moesia" vanilla-style build world, and enhanced WorldEdit permissions.</p>
+      <a class="button button--secondary button--rounded button--lg" style="background-color: #2BCA70" href="{{ site.baseurl }}/downloads/endeavor/mod.pdf">Download training guide</a>
     </div>
   </div>
 </div>
@@ -45,6 +47,7 @@ We offer downloadable guides for our various training courses and Endeavor suppl
       <h3>Creative</h3>
     </div>
     <div class="item__description">
+      <p>The Creative server features WorldEdit and OP-style permissions while offering two large plotworlds and a "Sandbox" superflat testing world. Everyone gets access to nicknames, WorldEdit, warps and homes and can vote for additional cosmetic privileges. For our members, we have the private "Rhodesia" superflat build world, the "Moesia" vanilla-style build world, and enhanced WorldEdit permissions.</p>
       <a class="button button--secondary button--rounded button--lg" style="background-color: #f7941d" href="{{ site.baseurl }}/downloads/endeavor/admin.pdf">Download training guide</a>
     </div>
   </div>
