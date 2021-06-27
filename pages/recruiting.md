@@ -3,7 +3,6 @@ layout: articles
 title: Positions with us
 permalink: /staff/recruiting
 articles:
-  data_source: site.recruiting
   show_cover: false
   show_excerpt: true
   show_readmore: true
