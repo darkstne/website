@@ -225,6 +225,18 @@ defaults:
       show_date: true
       pageview: true
       # lightbox: true
+  - scope:
+      path: "/staff/recruiting"
+      type: posts
+    values:
+      layout: article
+      sharing: true
+      license: false
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_subscribe: false
+      pageview: true
 
 ## => Plugins
 ##############################
