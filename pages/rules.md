@@ -52,7 +52,6 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
           <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Open a <a href="{{ site.baseurl }}/support">support</a> topic on the forum. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -98,7 +97,6 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
       <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
           <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Open a <a href="{{ site.baseurl }}/support">support</a> topic on the forum. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -129,7 +127,6 @@ The platforms we offer encourage collaboration and community. They should be res
       <p>The "server" refers to all community platforms that are official to Darkstone. This includes:</p>
         <ul>
           <li>The in-game <a href="{{ site.baseurl }}/join">Minecraft</a> server</li>
-          <li>The <a href="{{ site.baseurl }}/forum">forum</a> community</li>
           <li>The <a href="{{ site.baseurl }}/discord">Discord</a> guild</li>
         </ul>
 </details>
@@ -139,7 +136,6 @@ The platforms we offer encourage collaboration and community. They should be res
       <p>Here are the options given to our members if they need to file a report.</p>
         <ul>
           <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Open a <a href="{{ site.baseurl }}/support">support</a> topic on the forum. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -177,7 +173,6 @@ Our players should experience an environment that is free from cheating or abuse
       <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
           <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Open a <a href="{{ site.baseurl }}/support">support</a> topic on the forum. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>
@@ -214,7 +209,6 @@ Our players should be able to play in a safe and secure place without fear of th
       <p>Here are the options given to our players if they need to file a report.</p>
         <ul>
           <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Open a <a href="{{ site.baseurl }}/support">support</a> topic on the forum. Only staff members can see what you share in this category, and your case will be confidential.</li>
           <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
           <li>Inform an online staff member on the server.</li>
         </ul>

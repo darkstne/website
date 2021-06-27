@@ -3,7 +3,9 @@ layout: feature
 title: Endeavor Training Program
 excerpt: Get a head start and learn the basics by becoming an Endeavor staff member.
 permalink: /endeavor
-mode: immersive
+header:
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(0, 168, 168), rgb(203, 67, 53), rgb(34, 153, 84))'
 article_header:
   type: overlay
   theme: dark
