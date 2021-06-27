@@ -4,6 +4,8 @@ title: Explore so much more.
 excerpt: Survive and thrive. Together.
 permalink: /servers/survival
 mode: immersive
+header:
+  theme: dark
 article_header:
   type: overlay
   theme: dark
@@ -33,4 +35,4 @@ Every new player starts in the Survival server's hub to protect you from mobs, t
 
 Every player is teleported randomly to a unique location across the map. Don't worry, this isn't a player-versus-player server, though. Combat between players is disabled and limited to PvP-specific areas only. `/pvp` will send you there.
 
-After that, survive like normal. This could be with friends or if you fly solo; harness the resources of the world and "Survive and thrive!" There's no world protection system to worry about, and the economy is based on trades between players in our Auction House. (`/ah`). 
+After that, survive like normal. This could be with friends or if you fly solo; harness the resources of the world and "Survive and thrive!" There's no world protection system to worry about, and the economy is based on trades between players in our Auction House. (`/ah`).

@@ -1,19 +1,9 @@
 ---
-layout: feature
+layout: article
 title: Endeavor Training Program
-excerpt: Get a head start and learn the basics by becoming an Endeavor staff member.
 permalink: /endeavor
-mode: immersive
-header:
-  theme: dark
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#123'
-  background_image: false
 ---
 
-## Investing in great people
 Our community leaders are the ones that help bring our organization to new heights. By taking advantage of the resources and tools in our Endeavor program, reach new heights, gather new responsibilities and grow as a leader.
 
 And get to know some great people while doing it.

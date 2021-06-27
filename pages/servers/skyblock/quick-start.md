@@ -2,7 +2,8 @@
 layout: article
 title: Quick start guide
 permalink: /servers/skyblock/quick-start
-toc: true
+aside:
+  toc: true
 ---
 
 Getting used to new features sometimes takes time. To help, we offer a getting started guide for the <span class="skyblock">Skyblock</span> server so you can make the most out of the new features. New information is added as plugins update and add more features.

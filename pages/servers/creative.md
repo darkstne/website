@@ -4,6 +4,8 @@ title: There's so much more to see.
 excerpt: Plan, create and inspire. Planning is optional.
 permalink: /servers/creative
 mode: immersive
+header:
+  theme: dark
 article_header:
   type: overlay
   theme: dark

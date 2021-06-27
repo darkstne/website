@@ -4,6 +4,8 @@ title: Your eye in the sky.
 excerpt: Down below is no way to go.
 permalink: /servers/skyblock
 mode: immersive
+header:
+  theme: dark
 article_header:
   type: overlay
   theme: dark
@@ -28,6 +30,6 @@ All of the server's players can get started building and expanding their own sky
 We usually use [oak leaves](https://minecraft.gamepedia.com/Leaves) from the game to identify the Skyblock server.
 
 ## Management
-<div class="ops-section">
+<!-- <div class="ops-section">
   {% include ops.html %}
-</div>
+</div> -->

@@ -10,9 +10,9 @@ Our server staff members are appointed to make sure everything is in line with t
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Panther"><img src="https://cravatar.eu/helmhead/6fa574108a8c46d7ab77476ed0cdbe20" alt="PinkPanther1046" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/Lakefield"><img src="https://cravatar.eu/helmhead/77ca708d0717449bae691c503296e133" alt="Lakefield" width="108"></a></h3></div></div>
-    <div class="cell cell--4"><div><h3><a href="https://talk.darkst.one/u/MrMuffin"><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></a></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/6fa574108a8c46d7ab77476ed0cdbe20" alt="PinkPanther1046" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/77ca708d0717449bae691c503296e133" alt="Lakefield" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/ce74e1fa867041ddbfc89c0c02a8472a" alt="Saltonic" width="108"></h3></div></div>
   </div>
 </div>
 </center>
@@ -25,8 +25,8 @@ Executives are the "bosses" of the network who are responsible for the network's
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/root"><img src="https://cravatar.eu/helmhead/eca5074c25da49bd8a8529ce598ccdf4" alt="Tube_of_Kitkats" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Xen"><img src="https://cravatar.eu/helmhead/ab9aee273b3748be804c6810d5c0a643" alt="XenVoltz" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><img src="https://cravatar.eu/helmhead/eca5074c25da49bd8a8529ce598ccdf4" alt="Tube_of_Kitkats" width="108"></h3></div></div>
+    <div class="cell cell--6"><div><h3><img src="https://cravatar.eu/helmhead/ab9aee273b3748be804c6810d5c0a643" alt="XenVoltz" width="108"></h3></div></div>
   </div>
 </div>
 </center>
@@ -39,8 +39,8 @@ Developers are the staff members who are proficient in multiple programming lang
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/bemoseemo"><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Pheno"><img src="https://cravatar.eu/helmhead/dc7bd3dafd534ab3806b89d4d93aa72e" alt="Phenomality" width="108"></a></h3></div></div>
+    <div class="cell cell--6"><div><h3><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></h3></div></div>
+    <div class="cell cell--6"><div><h3><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></h3></div></div>
   </div>
 </div>
 </center>
@@ -53,8 +53,8 @@ Admins are staff members who are the network's more efficent general moderators.
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Mangle"><img src="https://cravatar.eu/helmhead/8a977fa2f2704224af0f73b9cc10936d" alt="Mangle_Love" width="108"></a></h3></div></div>
-    <div class="cell cell--6"><div><h3><a href="https://talk.darkst.one/u/Liv_Liv"><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></a></h3></div></div>
+    <div class="cell cell--12"><div><h3><img src="https://cravatar.eu/helmhead/53f64c18187247ecafc403bdf9279760" alt="SpicyLemons1210" width="108"></h3></div></div>
+
   </div>
 </div>
 </center>
