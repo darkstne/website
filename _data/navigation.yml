@@ -10,12 +10,7 @@ header:
     url:        /hc/getting-started
     key:        support
   - title:      Staff
-    children:
-      - title:  Current team
-        url:    /staff
-      - title:  Recruting opporunities
-        url:    /staff/recruiting
-
+    url:        /staff
 
 
 help-center:

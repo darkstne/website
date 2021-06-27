@@ -21,10 +21,14 @@ article_header:
   </div>
 </div>
 
+<hr>
+
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--4"><div><p>Creative Operations Director</p></div></div>
-    <div class="cell cell--4"><div><h6>Junior Leadership</h6></div></div>
-    <div class="cell cell--4"><div><h6>Weekly</h6></div></div>
+    <a href="../staff/recruiting/creative-operations-director"
+    <div class="cell cell--3"><div><p>Creative Operations Director</p></div></div>
+    <div class="cell cell--3"><div><p>Junior Leadership</p></div></div>
+    <div class="cell cell--3"><div><p>Weekly</p></div></div>
+    </a>
   </div>
 </div>
