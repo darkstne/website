@@ -74,11 +74,11 @@ As a server, we like to award our players with titles specific to their unique s
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/bd53d1b9dbc3497d9c3a29c04183b9c2" alt="Archtic_" width="108"></h3></div></div>
-    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/c6cec575914f4513a3cd8986d9e4cc12" alt="alexisl_" width="108"></h3></div></div>
-    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/2eacfd2ca874460bb812cbf7e5bee8ed" alt="bahlakesh" width="108"></h3></div></div>
-    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/de9cdbd753cb4e169e0d51c069216d57" alt="Gloomer" width="108"></h3></div></div>
-    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/91506894c71d4d91aa1c886ea9d54243" alt="jakerson_" width="108"></h3></div></div>
+    <div class="cell cell--2"><div><h3><img src="https://cravatar.eu/helmhead/bd53d1b9dbc3497d9c3a29c04183b9c2" alt="Archtic_" width="108"></h3></div></div>
+    <div class="cell cell--auto"><div><h3><img src="https://cravatar.eu/helmhead/c6cec575914f4513a3cd8986d9e4cc12" alt="alexisl_" width="108"></h3></div></div>
+    <div class="cell cell--auto"><div><h3><img src="https://cravatar.eu/helmhead/2eacfd2ca874460bb812cbf7e5bee8ed" alt="bahlakesh" width="108"></h3></div></div>
+    <div class="cell cell--auto"><div><h3><img src="https://cravatar.eu/helmhead/de9cdbd753cb4e169e0d51c069216d57" alt="Gloomer" width="108"></h3></div></div>
+    <div class="cell cell--auto"><div><h3><img src="https://cravatar.eu/helmhead/91506894c71d4d91aa1c886ea9d54243" alt="jakerson_" width="108"></h3></div></div>
   </div>
 </div>
 </center>

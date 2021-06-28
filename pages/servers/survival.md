@@ -16,7 +16,12 @@ server: Survival
 ops-username: Bemoseemo
 ops-uuid: 8a43ac7dc23948c9872ca09060704235
 ops-forum: bemoseemo
-feature-buttons: false
+feature-buttons: true
+feature-button-dark-title: Start your projects
+feature-button-dark-url: https://darkst.one/join
+feature-button-color-title: Season One Information
+feature-button-color-url: https://darkst.one/servers/survival#season-one
+feature-button-color-hex: cb4335
 ---
 
 ## More in store

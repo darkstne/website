@@ -24,6 +24,7 @@ feature-button-color-url: https://darkst.one/servers/skyblock/quick-start
 feature-button-color-hex: 229954
 ---
 
+## What more could you need?
 Skyblock is the place to collaborate in the sky. With the server's shop and economy, you'll never run out of supply.
 
 All of the server's players can get started building and expanding their own sky island base-- even if you're not a member. Build by yourself or with friends, everyone starts with an oak tree and a chest. It's skyblock as you know it, no surpises.
