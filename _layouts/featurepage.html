@@ -149,11 +149,24 @@ layout: base
                     {%- include article-info.html article=page semantic=false -%}
                     {%- include home-header.html article=page semantic=false -%}
                     {%- if page.excerpt -%}
-                      <center><p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
+                      {%- if _article_header_align == 'center' -%}
+                        <center>
+                          <p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
+                        </center>
+                      {%- else -%}
+                          <p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
+                      {%- endif -%}
                     {%- endif -%}
                     {%- if page.feature-buttons == true -%}
-                      <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
-                      <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a></center>
+                      {%- if _article_header_align == 'center' -%}
+                        <center>
+                          <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
+                          <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a>
+                        </center>
+                      {%- else -%}
+                        <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
+                        <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a>
+                      {%- endif -%}
                     {%- endif -%}
                     {%- if page.article_header.actions -%}
                       <ul class="menu">
