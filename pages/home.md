@@ -9,6 +9,7 @@ header:
 article_header:
   type: overlay
   theme: dark
+  align: center
   background_image:
     src: ../assets/images/hero.png
 feature-buttons: true

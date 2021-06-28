@@ -17,7 +17,10 @@ Our server staff members are appointed to make sure everything is in line with t
 </div>
 </center>
 
-Executives are the "bosses" of the network who are responsible for the network's operations, moderation team and the long-term goals of the network moving forward.
+Executives are the "bosses" of the network who are responsible for the network's operations, moderation team and the long-term goals of the network moving forward. In general, they oversee:
+* Long-term network operations
+* Feedback and operations of individual servers
+* Current and future network infrastructure
 <br>
 <a class="button button--secondary button--rounded button--lg" style="margin-top: 1rem; margin-bottom: 1rem; background-color: #e74c3c;" href="{{ site.baseurl }}/hc/content-moderation#executive">Learn more about Executives</a>
 
@@ -54,7 +57,6 @@ Admins are staff members who are the network's more efficent general moderators.
 <div class="grid-container">
   <div class="grid grid--py-3">
     <div class="cell cell--12"><div><h3><img src="https://cravatar.eu/helmhead/53f64c18187247ecafc403bdf9279760" alt="SpicyLemons1210" width="108"></h3></div></div>
-
   </div>
 </div>
 </center>
@@ -62,3 +64,25 @@ Admins are staff members who are the network's more efficent general moderators.
 Mods are the network's general moderators who have access to all of the tools that are essential for moderation. Everyone starts somewhere, and with us, it's here.
 <br>
 <a class="button button--secondary button--rounded button--lg" style="margin-top: 1rem; margin-bottom: 1rem; background-color: #1e8449;" href="{{ site.baseurl }}/hc/content-moderation#mod">Learn more about Mods</a>
+
+<hr>
+
+## Secondary titles
+As a server, we like to award our players with titles specific to their unique skillsets and recognition for their abilities. While none of these titles are a part of our staff team, special recognition is given to these users for their achievement and dedication to the network.
+
+<h3 style="line-height: 2.5rem; border-bottom: 3px #3498db solid;">Architects</h3>
+<center>
+<div class="grid-container">
+  <div class="grid grid--py-3">
+    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/bd53d1b9dbc3497d9c3a29c04183b9c2" alt="Archtic_" width="108"></h3></div></div>
+    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/c6cec575914f4513a3cd8986d9e4cc12" alt="alexisl_" width="108"></h3></div></div>
+    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/2eacfd2ca874460bb812cbf7e5bee8ed" alt="bahlakesh" width="108"></h3></div></div>
+    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/de9cdbd753cb4e169e0d51c069216d57" alt="Gloomer" width="108"></h3></div></div>
+    <div class="cell cell--2.4"><div><h3><img src="https://cravatar.eu/helmhead/91506894c71d4d91aa1c886ea9d54243" alt="jakerson_" width="108"></h3></div></div>
+  </div>
+</div>
+</center>
+
+Architects are our "brick and mortar"-oriented creators. Architects build using anything from the inventory menu except the redstone section.
+<br>
+<a class="button button--secondary button--rounded button--lg" style="margin-top: 1rem; margin-bottom: 1rem; background-color: #3498db;" href="{{ site.baseurl }}/hc/titles-and-honors#architect">Learn more about Architects</a>
