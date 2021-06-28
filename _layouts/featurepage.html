@@ -151,7 +151,7 @@ layout: base
                     {%- if page.excerpt -%}
                       {%- if _article_header_align == 'center' -%}
                         <center>
-                          <p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
+                          <p class="hero-subtitle">{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>
                         </center>
                       {%- else -%}
                           <p>{{ page.excerpt | strip_html | strip_newlines | strip | truncate: _article_header_excerpt_truncate }}</p>

@@ -9,6 +9,7 @@ header:
 article_header:
   type: overlay
   theme: dark
+  align: center
   background_image:
     src: ../assets/images/skyblock-hero.png
 server: Skyblock
@@ -29,7 +30,7 @@ All of the server's players can get started building and expanding their own sky
 
 We usually use [oak leaves](https://minecraft.gamepedia.com/Leaves) from the game to identify the Skyblock server.
 
-## Management
-<!-- <div class="ops-section">
+<!-- ## Management
+<div class="ops-section">
   {% include ops.html %}
 </div> -->
