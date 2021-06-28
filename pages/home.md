@@ -4,8 +4,8 @@ title: The network made for you.
 excerpt: The Darkstone Minecraft Network for Java and Bedrock edition masterfully made to satisfy everyone's spontaneously creative side.
 permalink: /
 header:
-  theme: light
-  background: 'linear-gradient(135deg, rgb(52, 152, 219), rgb(255, 255, 255), rgb(231, 76, 60))'
+  theme: dark
+  background: 'linear-gradient(135deg, rgb(40, 116, 166), rgb(255, 255, 255), rgb(148, 49, 38))'
 article_header:
   type: overlay
   theme: dark
