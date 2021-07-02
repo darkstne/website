@@ -17,12 +17,9 @@ We offer downloadable guides for our various training courses and Endeavor suppl
     <img class="image image--sm" src="{{ site.baseurl }}/assets/images/endeavor-mod.png"/>
   </div>
   <div class="item__content">
-    <div class="item__header">
-      <h3>Creative</h3>
-    </div>
     <div class="item__description">
       <p>The Creative server features WorldEdit and OP-style permissions while offering two large plotworlds and a "Sandbox" superflat testing world. Everyone gets access to nicknames, WorldEdit, warps and homes and can vote for additional cosmetic privileges. For our members, we have the private "Rhodesia" superflat build world, the "Moesia" vanilla-style build world, and enhanced WorldEdit permissions.</p>
-      <a class="button button--secondary button--rounded button--lg" style="background-color: #2BCA70" href="{{ site.baseurl }}/downloads/endeavor/mod.pdf">Download training guide</a>
+      <a class="button button--secondary button--rounded button--lg" style="background-color: #2BCA70" href="{{ site.baseurl }}/training/mod/introduction">Access training guide</a>
     </div>
   </div>
 </div>
