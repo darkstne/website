@@ -32,7 +32,7 @@ help-center:
         url:    #
 
 
-training-mod:
+mod-training:
   - title:      Module 0: Getting started
     children:
       - title:  Introduction

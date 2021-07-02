@@ -232,7 +232,7 @@ defaults:
       layout: article
       nav_key: trn-mod
       sidebar:
-        nav: training-mod
+        nav: mod-training
       license: false
       aside:
         toc: true
