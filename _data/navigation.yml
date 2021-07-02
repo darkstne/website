@@ -35,9 +35,9 @@ help-center:
 training-mod:
   - title:      Module 0: Getting started
     children:
-      - title:  Module 1: Introduction
+      - title:  Introduction
         url:    /training/mod/introduction
-  - title:      Back to Basics
+  - title:      Module 1: Back to Basics
     children:
       - title:  Section 1: Darkstone's Circles
         url:    /training/mod/darkstones-circles
