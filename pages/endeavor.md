@@ -1,14 +1,14 @@
 ---
 layout: article
 title: Endeavor Training Program
-permalink: /endeavor
+permalink: /training
 ---
 
 Our community leaders are the ones that help bring our organization to new heights. By taking advantage of the resources and tools in our Endeavor program, reach new heights, gather new responsibilities and grow as a leader.
 
 And get to know some great people while doing it.
 
-## Training guides
+## Training content structure
 We offer downloadable guides for our various training courses and Endeavor supplemental resources. All of our guides are published and obtainable at no cost, for everyone.
 
 <h3 style="line-height: 2.5rem; border-bottom: 3px #2BCA70 solid;">Mod Training Program</h3>

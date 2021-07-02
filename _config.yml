@@ -225,6 +225,21 @@ defaults:
       show_date: true
       pageview: true
       # lightbox: true
+  ## endeavor mod
+  - scope:
+      path: "mod-training"
+    values:
+      layout: article
+      nav_key: trn-mod
+      sidebar:
+        nav: training-mod
+      license: false
+      aside:
+        toc: true
+      show_edit_on_github: false
+      show_date: true
+      pageview: true
+      # lightbox: true
 
 ## => Plugins
 ##############################
