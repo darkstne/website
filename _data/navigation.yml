@@ -43,3 +43,9 @@ mod-training:
         url:    /training/mod/darkstones-circles
       - title:  (1.2) Mission Statement
         url:    /training/mod/mission-statement
+  - title:      Nitty Gritty
+    children:
+      - title:  (2.1) Positional Structure
+        url:    /training/mod/positional-structure
+      - title:  (2.2) Team Member Guidelines
+        url:    /training/mod/team-member-guidelines
