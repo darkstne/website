@@ -41,3 +41,5 @@ mod-training:
     children:
       - title:  (1.1) Darkstone's Circles
         url:    /training/mod/darkstones-circles
+      - title:  (1.2) Mission Statement
+        url:    /training/mod/mission-statement
