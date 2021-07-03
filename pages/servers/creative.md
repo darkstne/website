@@ -13,9 +13,8 @@ article_header:
   background_image:
     src: ../assets/images/creative-hero.png
 server: Creative
-ops-username: Kierxnnn
-ops-uuid: a6165b3611634d98be74ec1c50aef789
-ops-forum: Kierxnnn
+ops-username: jakerson_
+ops-uuid: 91506894c71d4d91aa1c886ea9d54243
 feature-buttons: true
 feature-button-dark-title: Start your projects
 feature-button-dark-url: https://darkst.one/join
@@ -31,10 +30,10 @@ All of our players, member or not, are given access to an advanced suite of Worl
 
 We usually use a [grass block](https://minecraft.gamepedia.com/Grass_Block) from the game to identify the Creative server.
 
-<!-- ## Management
+## Management
 <div class="ops-section">
   {% include ops.html %}
-</div> -->
+</div>
 
 ## Worlds
 We offer a total of eight different worlds for creativity. Each of them has their own purpose and intended use for our players to take advantage of their creative permissions.

@@ -15,7 +15,6 @@ article_header:
 server: Survival
 ops-username: Bemoseemo
 ops-uuid: 8a43ac7dc23948c9872ca09060704235
-ops-forum: bemoseemo
 feature-buttons: true
 feature-button-dark-title: Start your projects
 feature-button-dark-url: https://darkst.one/join

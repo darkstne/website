@@ -42,8 +42,9 @@ Developers are the staff members who are proficient in multiple programming lang
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--6"><div><h3><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></h3></div></div>
-    <div class="cell cell--6"><div><h3><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/8a43ac7dc23948c9872ca09060704235" alt="Bemoseemo" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/91506894c71d4d91aa1c886ea9d54243" alt="jakerson_" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/2967434555d84e77815cb3600b3ffe39" alt="livless" width="108"></h3></div></div>
   </div>
 </div>
 </center>
@@ -56,7 +57,9 @@ Admins are staff members who are the network's more efficent general moderators.
 <center>
 <div class="grid-container">
   <div class="grid grid--py-3">
-    <div class="cell cell--12"><div><h3><img src="https://cravatar.eu/helmhead/53f64c18187247ecafc403bdf9279760" alt="SpicyLemons1210" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/af3eb53ffc65479f8004778c047e4ab3" alt="Ershan" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/53f64c18187247ecafc403bdf9279760" alt="SpicyLemons1210" width="108"></h3></div></div>
+    <div class="cell cell--4"><div><h3><img src="https://cravatar.eu/helmhead/e06b439e0aff401a8a779cf0d2ebf2b2" alt="YKings" width="108"></h3></div></div>
   </div>
 </div>
 </center>
