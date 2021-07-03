@@ -33,11 +33,11 @@ help-center:
 
 
 mod-training:
-  - title:      Module 0
+  - title:      Module 0 Getting Started
     children:
       - title:  Introduction
         url:    /training/mod/introduction
-  - title:      Module 1
+  - title:      Module 1 Back to Basics
     children:
       - title:  Back to Basics
         url:    /training/mod/back-to-basics
