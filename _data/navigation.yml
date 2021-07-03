@@ -33,11 +33,13 @@ help-center:
 
 
 mod-training:
-  - title:      Mod. 0: Getting started
+  - title:      Module 0
     children:
       - title:  Introduction
         url:    /training/mod/introduction
-  - title:      Mod. 1: Back to Basics
+  - title:      Module 1
     children:
+      - title:  Back to Basics
+        url:    /training/mod/back-to-basics
       - title:  Darkstone's Circles
         url:    /training/mod/darkstones-circles
