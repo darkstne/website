@@ -49,12 +49,9 @@ Comply with all of the requests of staff members, and be truthful and forthcomin
 
 <details>
   <summary>How can I report someone for not complying with staff members?</summary>
-      <p>Here are the options given to our members if they need to file a report.</p>
-        <ul>
-          <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
-          <li>Inform an online staff member on the server.</li>
-        </ul>
+    <div class="reporting">
+      {% include reporting.html %}
+    </div>
 </details>
 
 ## General rules
@@ -94,12 +91,9 @@ All players are deserving of respect, and should not be harmed, attacked, or tre
 
 <details>
   <summary>How can I report someone for not being respectful of others?</summary>
-      <p>Here are the options given to our players if they need to file a report.</p>
-        <ul>
-          <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
-          <li>Inform an online staff member on the server.</li>
-        </ul>
+    <div class="reporting">
+      {% include reporting.html %}
+    </div>
 </details>
 
 ### 3. Be respectful of the server.
@@ -133,12 +127,9 @@ The platforms we offer encourage collaboration and community. They should be res
 
 <details>
   <summary>How can I report someone for not being respectful of the server?</summary>
-      <p>Here are the options given to our members if they need to file a report.</p>
-        <ul>
-          <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
-          <li>Inform an online staff member on the server.</li>
-        </ul>
+    <div class="reporting">
+      {% include reporting.html %}
+    </div>
 </details>
 
 ### 4. Avoid cheating and exploiting.
@@ -170,12 +161,9 @@ Our players should experience an environment that is free from cheating or abuse
 
 <details>
   <summary>How can I report someone for cheating or exploiting?</summary>
-      <p>Here are the options given to our players if they need to file a report.</p>
-        <ul>
-          <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
-          <li>Inform an online staff member on the server.</li>
-        </ul>
+    <div class="reporting">
+      {% include reporting.html %}
+    </div>
 </details>
 
 ### 5. Remain secure.
@@ -206,10 +194,7 @@ Our players should be able to play in a safe and secure place without fear of th
 
 <details>
   <summary>How can I report someone for not respecting security rules?</summary>
-      <p>Here are the options given to our players if they need to file a report.</p>
-        <ul>
-          <li><strong><span class="special-highlight">Recommended: Online form report.</span></strong> Use the <a href="{{ site.baseurl }}/report">online form</a> to file a player report online.</li>
-          <li>Join the <a href="{{ site.baseurl }}/discord">Discord</a> server and send a message to a staff member. If no staff member is online, try using the <code>#support</code> channel and a staff member will handle it later.</li>
-          <li>Inform an online staff member on the server.</li>
-        </ul>
+    <div class="reporting">
+      {% include reporting.html %}
+    </div>
 </details>

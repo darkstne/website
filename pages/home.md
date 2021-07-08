@@ -60,6 +60,11 @@ Ready to get started? It's easy. Open up Minecraft, enter in our address, and ge
  </div>
 </div>
 
+## How can we help?
+If you're in need of support, we offer a [`#help`](https://discord.gg/HaJub5my3u) channel on our [Discord](../discord) server for assistance. If your issue needs to be settled privately, you may use one of our online forms alternatively:
+* [https://darkst.one/help] - For general issues and support.
+* [https://darkst.one/urgent] - For time-sensitive issues and business. Do not abuse this.
+
 ## Ready, player one?
 From our most experienced veteran players to the newest kids on the block; there's always something more to explore. No matter your qualifications, everyone can jump right in and become an active player in the community.
 

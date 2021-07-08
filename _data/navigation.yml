@@ -6,6 +6,8 @@ header:
     url:        /rules
   - title:      Servers
     url:        /servers
+  - title:      Help
+    url:        /help
   - title:      Support
     url:        /hc/getting-started
     key:        support
