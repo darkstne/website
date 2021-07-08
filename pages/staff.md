@@ -34,7 +34,10 @@ Executives are the "bosses" of the network who are responsible for the network's
 </div>
 </center>
 
-Developers are the staff members who are proficient in multiple programming languages or command-line events. They are responsible to create, execute and maintain these custom projects.
+Developers are the staff members who are proficient in multiple programming languages or command-line events. They are responsible to create, execute and maintain these custom projects. In general, they oversee:
+* Sever software and digital processes
+* Compliance and version compatability
+* DNS and domain infrastructure
 <br>
 <a class="button button--secondary button--rounded button--lg" style="margin-top: 1rem; margin-bottom: 1rem; background-color: #652d90;" href="{{ site.baseurl }}/hc/content-moderation#developer">Learn more about Developers</a>
 
@@ -49,7 +52,10 @@ Developers are the staff members who are proficient in multiple programming lang
 </div>
 </center>
 
-Admins are staff members who are the network's more efficent general moderators. They are responsible to conduct those below them, and are responsible for the server's permanent punishments.
+Admins are staff members who are the network's more efficent general moderators. They are responsible to conduct those below them, and are responsible for the server's permanent punishments. In general, they oversee:
+* Other entry-level content moderators
+* Specific and higher-priority support issues
+* Moderation of the [Discord](../discord) server
 <br>
 <a class="button button--secondary button--rounded button--lg" style="margin-top: 1rem; margin-bottom: 1rem; background-color: #f7941d;" href="{{ site.baseurl }}/hc/content-moderation#admin">Learn more about Admins</a>
 
@@ -64,7 +70,10 @@ Admins are staff members who are the network's more efficent general moderators.
 </div>
 </center>
 
-Mods are the network's general moderators who have access to all of the tools that are essential for moderation. Everyone starts somewhere, and with us, it's here.
+Mods are the network's general moderators who have access to all of the tools that are essential for moderation. Everyone starts somewhere, and with us, it's here. In general, they oversee:
+* Behavior and compliance of [layers across our platforms
+* General server moderation processes
+* Responsible reporting and knowledge of the chain of command
 <br>
 <a class="button button--secondary button--rounded button--lg" style="margin-top: 1rem; margin-bottom: 1rem; background-color: #1e8449;" href="{{ site.baseurl }}/hc/content-moderation#mod">Learn more about Mods</a>
 

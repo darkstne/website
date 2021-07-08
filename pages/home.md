@@ -35,7 +35,7 @@ Ready to get started? It's easy. Open up Minecraft, enter in our address, and ge
             <h3>Java Edition</h3>
           </div>
           <div class="item__description">
-            <p>Supporting Java version 1.16.5 to 1.4.7. The "traditional" Minecraft for your PC and Mac that you know and love.</p>
+            <p>Supporting Java version 1.17.1 to 1.4.7. The "traditional" Minecraft for your PC and Mac that you know and love.</p>
             <a class="button button--secondary button--rounded button--lg" href="{{ site.baseurl}}/hc/getting-started#joining-on-java">Connect using Java</a>
           </div>
         </div>

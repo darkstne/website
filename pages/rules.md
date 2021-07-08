@@ -200,7 +200,7 @@ Our players should be able to play in a safe and secure place without fear of th
 
 <details>
   <summary>What do we mean by an account?</summary>
-      <p>Your <a href="https://minecraft.net">Minecraft</a> account is yours that controls your profile. Your account on our forum is yours as well. Do not let other people access it, and regularly change your account password.</p>
+      <p>Your <a href="https://minecraft.net">Minecraft</a> account is yours that controls your profile. Do not let other people access it, and regularly change your account password.</p>
       <p>Players should notify an Executive before making another account if they intend to do so. Anything that violates United States law will be notified to proper authorities; we are based in the U.S. and work within its laws.</p>
 </details>
 
